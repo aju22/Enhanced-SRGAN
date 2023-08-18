@@ -7,6 +7,8 @@ Image super-resolution (SR) techniques reconstruct a higher-resolution (HR) imag
 One of the common approaches to solving this task is to use deep convolutional neural networks capable of recovering HR images from LR ones. And ESRGAN (Enhanced SRGAN) is one of them.
 
  ESRGAN achieves consistently better visual quality with more realistic and natural textures than SRGAN.
+
+ Access colab file at : [ESRGAN.ipynb](https://colab.research.google.com/drive/1YLA1P3-hL3ysLyI5wG4pYleTZcC5QUxD?usp=sharing)
  
  ![](https://miro.medium.com/max/767/1*IS1rXV5jWxKPfeCkILvoZw.png)
  
